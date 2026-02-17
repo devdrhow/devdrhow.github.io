@@ -1,15 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I’m Carl Howard, an MIS Supervisor and graduate student in Program Evaluation & Data Analytics. I focus on turning messy operational data into clear, decision-ready reporting. This involves connecting ERP/MRP systems, building KPI dashboards, and translating stakeholder needs into tools that actually get used. I’m especially interested in data-driven strategy, automation, and evaluation methods that help organizations measure what’s working and improve what’s not. This site is a simple portfolio of projects and experiments that show how I approach problems: structured, practical, and grounded in evidence.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
